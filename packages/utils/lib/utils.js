@@ -3,5 +3,7 @@
 module.exports = utils;
 
 function utils() {
-    // TODO
+    return {
+        message: 'Hello world'
+    }
 }

@@ -1,7 +1,8 @@
 'use strict';
-
-module.exports = components;
+const utils = require('@nikinovarto/utils');
 
 function components() {
-    // TODO
+    const u = utils();
+    console.log(u)
 }
+module.exports = components;
