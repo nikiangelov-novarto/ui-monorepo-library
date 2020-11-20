@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/nikiangelov-novarto/ui-monorepo-library#readme",
   "dependencies": {
-    "@nikinovarto/utils": "^1.1.0"
+    "@nikinovarto/utils": "^1.2.0"
   }
 }
