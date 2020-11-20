@@ -1,0 +1,26 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Nikolay Angelov <nikolay.angelov@novarto.com>",
+  "homepage": "https://github.com/nikiangelov-novarto/ui-monorepo-library#readme",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikiangelov-novarto/ui-monorepo-library.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/nikiangelov-novarto/ui-monorepo-library/issues"
+  }
+}
